@@ -1,0 +1,14 @@
+{
+  "name": "tdt-datahub",
+  "version": "1.0.0",
+  "description": "TDT Datahub Server",
+  "main": "datahub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "macaca-datahub": "^4.2.2"
+  }
+}

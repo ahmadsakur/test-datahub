@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "login",
+  "method": "POST",
+  "projectUniqId": "ed6553da-f004-4416-aecd-9e88734baa38",
+  "description": "login test",
+  "currentScene": "login_success",
+  "proxyConfig": {},
+  "uniqId": "6418c546-44c8-4770-9398-adbb979b05e9",
+  "groupUniqId": "ffcc3e5b-c2d1-4c36-af68-d0f889ded608"
+}

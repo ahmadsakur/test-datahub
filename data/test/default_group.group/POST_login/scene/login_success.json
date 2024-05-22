@@ -1,0 +1,12 @@
+{
+  "sceneName": "login_success",
+  "data": {
+    "data": true
+  },
+  "interfaceUniqId": "6418c546-44c8-4770-9398-adbb979b05e9",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "f76d528a-f830-40cb-b267-ba327a24157b",
+  "format": "json"
+}
